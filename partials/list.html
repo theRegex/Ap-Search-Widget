@@ -1,6 +1,13 @@
 <h5>{{msg}}</h5>
 <div>
-	{{dataResults.matchCount}}
+<ul ng-repeat="properties in props">
+<li>{{properties.name}}</li>
+<li>{{properties.id}}</li>
+<li>{{properties.description}}</li>
+<li>{{properties.minRent}}</li>
+<li>{{properties.maxRent}}</li>
+<li>{{properties.partnerPropertyId}}</li>
+</ul>
 </div>
 <div class="col-lg-10"></div>
 <div class="col-lg-2"></div>
