@@ -1,0 +1,2564 @@
+{
+   "matchCount":13,
+   "properties":[
+      {
+         "address":{
+            "address1":"91 Beech Street",
+            "address2":"",
+            "cityname":"Kearny",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07032"
+         },
+         "name":"Beech Kearny Associates",
+         "id":981052,
+         "description":"Quality living is what you'll find at our clean, well-maintained, and spacious building. At Beech Kearny Apartments, we make sure that your home is comfortable, and our professional staff is always striving to meet every one of your requests. Its superb location and close proximity to New York City, and easy access to transportation, state of the art medical facilities, employment hubs, shopping, and entertainment make it a desirable place to live.",
+         "latitude":40.768924,
+         "longitude":-74.144872,
+         "rentRange":"$1,000 - $1,525",
+         "propertyKey":"8EQ798110572",
+         "modifiedTimestamp":1456921502261,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1000,
+         "maxRent":1525,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/3510024/%s/3510024.jpg",
+         "maxBeds":2,
+         "minBeds":0,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"2689063",
+         "_id":981052,
+         "propStandardAmenities":[
+            {
+               "name":"Elevator",
+               "id":"57",
+               "display":true,
+               "amenityPartnerId":"S100000304",
+               "displaySequence":6,
+               "mitsAmenityName":"Elevator"
+            },
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"Storage Space",
+               "id":"52",
+               "display":true,
+               "amenityPartnerId":"P000000044",
+               "displaySequence":11,
+               "mitsAmenityName":"StorageSpace"
+            },
+            {
+               "name":"Controlled Access",
+               "id":"66",
+               "display":true,
+               "amenityPartnerId":"P000000053",
+               "displaySequence":9999
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Ample Street Parking",
+               "id":"359154633",
+               "display":true,
+               "amenityPartnerId":"P000000002",
+               "displaySequence":0
+            },
+            {
+               "name":"Beautifully Restored Pre-War Building",
+               "id":"359154634",
+               "display":true,
+               "amenityPartnerId":"P000000006",
+               "displaySequence":1
+            },
+            {
+               "name":"Bilingual Staff",
+               "id":"359154635",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":2
+            },
+            {
+               "name":"Close Proximity to New York City",
+               "id":"359154636",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":3
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"359154637",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":4
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"359154638",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":5
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"359154639",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":7
+            },
+            {
+               "name":"On-Site 24-Hour Maintenance",
+               "id":"359154640",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":8
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"359154641",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":10
+            },
+            {
+               "name":"Close to Public Transportation",
+               "id":"359154643",
+               "display":true,
+               "amenityPartnerId":"P000000017",
+               "displaySequence":9999
+            },
+            {
+               "name":"Cable",
+               "id":"359154645",
+               "display":true,
+               "amenityPartnerId":"S100000062",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":370,
+         "maxSqfeet":940,
+         "bathsRange":"1",
+         "bedsRange":"Studio - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/3510024/%s/3510024.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/3510025/%s/3510025.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211712/%s/5211712.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211713/%s/5211713.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211714/%s/5211714.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211715/%s/5211715.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211716/%s/5211716.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211717/%s/5211717.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211718/%s/5211718.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211719/%s/5211719.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211720/%s/5211720.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211721/%s/5211721.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211722/%s/5211722.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211723/%s/5211723.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211724/%s/5211724.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211725/%s/5211725.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211726/%s/5211726.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211727/%s/5211727.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211728/%s/5211728.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211729/%s/5211729.jpg"
+         ],
+         "petsAllowed":false,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2689063"
+      },
+      {
+         "address":{
+            "address1":"101 Prospect Avenue",
+            "address2":"",
+            "cityname":"Hackensack",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07601"
+         },
+         "name":"SDK Prospect Towers",
+         "id":61066,
+         "description":"Located in one of New Jersey s most desirable areas, SDK Prospect Towers offers our residents spacious floor plans, beautiful hardwood floors, on-site parking and a fully equipped fitness center. Just outside New York City, it is in a superb location with easy access to transportation, the finest medical facilities, employment hubs, shopping, and entertainment. Our team of professionals strives to meet each and every one of your requests, ensuring that you live in comfort.<br/>",
+         "latitude":40.886540315166,
+         "longitude":-74.056674415511,
+         "rentRange":"$1,225 - $2,505",
+         "propertyKey":"4UW0E6110606",
+         "modifiedTimestamp":1456921502261,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1225,
+         "maxRent":2505,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/3509951/%s/3509951.jpg",
+         "maxBeds":3,
+         "minBeds":0,
+         "maxBaths":2,
+         "minBaths":1,
+         "partnerPropertyId":"2688935",
+         "_id":61066,
+         "propStandardAmenities":[
+            {
+               "name":"Elevators",
+               "id":"57",
+               "display":true,
+               "amenityPartnerId":"S100000304",
+               "displaySequence":8,
+               "mitsAmenityName":"Elevator"
+            },
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":13,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"Well Equipped Fitness Center",
+               "id":"53",
+               "display":true,
+               "amenityPartnerId":"S100000029",
+               "displaySequence":16,
+               "mitsAmenityName":"FitnessCenter"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Assigned Off-Street Parking",
+               "id":"305381166",
+               "display":true,
+               "amenityPartnerId":"P000000003",
+               "displaySequence":0
+            },
+            {
+               "name":"Bilingual Staff",
+               "id":"305381167",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":1
+            },
+            {
+               "name":"Close Proximity to New York City",
+               "id":"305381168",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":2
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"305381169",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":3
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"305381170",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":4
+            },
+            {
+               "name":"Corporate Suites and Furnished Apartments Available",
+               "id":"305381171",
+               "display":true,
+               "amenityPartnerId":"S100000303",
+               "displaySequence":7
+            },
+            {
+               "name":"Flexible Lease Guarantee",
+               "id":"305381172",
+               "display":true,
+               "amenityPartnerId":"P000000020",
+               "displaySequence":9
+            },
+            {
+               "name":"Garages Available",
+               "id":"305381173",
+               "display":true,
+               "amenityPartnerId":"P000000023",
+               "displaySequence":10
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"305381174",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":11
+            },
+            {
+               "name":"On-Site 24-Hour Maintenance",
+               "id":"305381175",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":12
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"305381176",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":15
+            }
+         ],
+         "minSqfeet":460,
+         "maxSqfeet":1381,
+         "bathsRange":"1 - 2",
+         "bedsRange":"Studio - 3",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/3509951/%s/3509951.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4815758/%s/4815758.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211951/%s/5211951.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211952/%s/5211952.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211953/%s/5211953.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211954/%s/5211954.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211955/%s/5211955.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211956/%s/5211956.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211957/%s/5211957.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211958/%s/5211958.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211959/%s/5211959.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211960/%s/5211960.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211961/%s/5211961.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211962/%s/5211962.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211963/%s/5211963.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211964/%s/5211964.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211965/%s/5211965.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211966/%s/5211966.jpg"
+         ],
+         "petsAllowed":false,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2688935"
+      },
+      {
+         "address":{
+            "address1":"1341 Blackwood Clementon Rd",
+            "address2":"Suite 545",
+            "cityname":"Clementon",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"08021"
+         },
+         "name":"SDK Millbridge Gardens",
+         "id":63934,
+         "description":"Located in the heart of historic Gloucester, SDK Millbridge Gardens is a premiere garden-style community that offers the highest quality of life for its residents, with its newly landscaped lawns, spacious apartments, and brand new renovations. The community boasts two sparkling swimming pools, four tennis courts, and brand new renovations throughout, providing an enjoyable and comfortable setting for your living. On site, we have a team of professionals that strives to meet your every request, ensuring that you live in comfort. Its location is within close proximity to employment hubs, medical facilities, recreational and shopping amenities, and entertainment.",
+         "latitude":39.803812131286,
+         "longitude":-75.032424777746,
+         "rentRange":"$829 - $1,545",
+         "propertyKey":"7WK006369374",
+         "modifiedTimestamp":1456919104558,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"11:00",
+               "endTime1":"15:00"
+            }
+         ],
+         "isFeatured":true,
+         "minRent":829,
+         "maxRent":1545,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/4814879/%s/4814879.jpg",
+         "maxBeds":2,
+         "minBeds":1,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"2688923",
+         "_id":63934,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":10,
+               "mitsAmenityName":"Laundry"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Bilingual Staff",
+               "id":"354857140",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":0
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"354857141",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":2
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"354857142",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":3
+            },
+            {
+               "name":"Corporate Suites and Furnished Apartments Available",
+               "id":"354857143",
+               "display":true,
+               "amenityPartnerId":"S100000303",
+               "displaySequence":5
+            },
+            {
+               "name":"Flexible Lease Guarantee",
+               "id":"354857144",
+               "display":true,
+               "amenityPartnerId":"P000000020",
+               "displaySequence":6
+            },
+            {
+               "name":"Off-Street Assigned Parking",
+               "id":"354857145",
+               "display":true,
+               "amenityPartnerId":"P000000031",
+               "displaySequence":7
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"354857146",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":8
+            },
+            {
+               "name":"On-Site 24-Hour Maintenance",
+               "id":"354857147",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9
+            },
+            {
+               "name":"Pet Friendly",
+               "id":"354857148",
+               "display":true,
+               "amenityPartnerId":"P000000037",
+               "displaySequence":12
+            },
+            {
+               "name":"Professional On-Site Management",
+               "id":"354857149",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":13
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"354857150",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":14
+            },
+            {
+               "name":"Swimming Pools",
+               "id":"354857151",
+               "display":true,
+               "amenityPartnerId":"S100000040",
+               "displaySequence":15
+            },
+            {
+               "name":"Tennis Courts",
+               "id":"354857152",
+               "display":true,
+               "amenityPartnerId":"P000000046",
+               "displaySequence":16
+            }
+         ],
+         "minSqfeet":850,
+         "maxSqfeet":1000,
+         "bathsRange":"1",
+         "bedsRange":"1 - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/4814879/%s/4814879.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814881/%s/4814881.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814882/%s/4814882.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814883/%s/4814883.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814884/%s/4814884.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814885/%s/4814885.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814886/%s/4814886.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814888/%s/4814888.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211801/%s/5211801.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211802/%s/5211802.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211803/%s/5211803.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211804/%s/5211804.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211805/%s/5211805.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211806/%s/5211806.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211807/%s/5211807.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211808/%s/5211808.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211809/%s/5211809.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211810/%s/5211810.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211811/%s/5211811.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211812/%s/5211812.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211813/%s/5211813.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211814/%s/5211814.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211815/%s/5211815.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211816/%s/5211816.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211817/%s/5211817.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211818/%s/5211818.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211819/%s/5211819.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211820/%s/5211820.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211821/%s/5211821.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211822/%s/5211822.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211823/%s/5211823.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211824/%s/5211824.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2688923"
+      },
+      {
+         "address":{
+            "address1":"3120 Naamans Rd",
+            "address2":"",
+            "cityname":"Wilmington",
+            "statecode":"DE ",
+            "statename":"Delaware",
+            "postalcode":"19810"
+         },
+         "name":"SDK Stratford Apartments",
+         "id":787603,
+         "description":"At SDK Stratford Apartments, our on-site team of professionals is committed to providing you with the highest quality of living. We continually improve our communities through carefully designed upgrades and stunning landscaping, ensuring that you live in comfort. We are conveniently located just minutes from downtown Wilmington and Center City, Philadelphia, and within walking distance to shopping, dining, and entertainment.<br/><br/>",
+         "latitude":39.829759786404,
+         "longitude":-75.535369389684,
+         "rentRange":"$974 - $1,770",
+         "propertyKey":"3D0378776003",
+         "modifiedTimestamp":1456920003527,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"11:00",
+               "endTime1":"15:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":974,
+         "maxRent":1770,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/4816015/%s/4816015.jpg",
+         "maxBeds":3,
+         "minBeds":0,
+         "maxBaths":2,
+         "minBaths":1,
+         "partnerPropertyId":"2688936",
+         "_id":787603,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9999,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"Well Equipped Fitness Center",
+               "id":"53",
+               "display":true,
+               "amenityPartnerId":"S100000029",
+               "displaySequence":9999,
+               "mitsAmenityName":"FitnessCenter"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Professionally Landscaped",
+               "id":"305381211",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":9999
+            },
+            {
+               "name":"Swimming Pool with Free Wi-Fi",
+               "id":"305381213",
+               "display":true,
+               "amenityPartnerId":"P000000045",
+               "displaySequence":9999
+            },
+            {
+               "name":"Corporate Suites and Furnished Apartments Available",
+               "id":"305381219",
+               "display":true,
+               "amenityPartnerId":"S100000303",
+               "displaySequence":9999
+            },
+            {
+               "name":"Business center",
+               "id":"305381215",
+               "display":true,
+               "amenityPartnerId":"S100000048",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professional On-Site Management",
+               "id":"305381210",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"Pet Friendly",
+               "id":"305381208",
+               "display":true,
+               "amenityPartnerId":"P000000037",
+               "displaySequence":9999
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"305381206",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":9999
+            },
+            {
+               "name":"Off-Street Parking",
+               "id":"305381205",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"305381200",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":9999
+            },
+            {
+               "name":"On-Site 24 Hour Maintenance",
+               "id":"305381220",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9999
+            },
+            {
+               "name":"Bilingual Staff",
+               "id":"305381197",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":9999
+            },
+            {
+               "name":"Community Room",
+               "id":"305381203",
+               "display":true,
+               "amenityPartnerId":"P000000018",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":528,
+         "maxSqfeet":1328,
+         "bathsRange":"1 - 2",
+         "bedsRange":"Studio - 3",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/4816015/%s/4816015.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816016/%s/4816016.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816017/%s/4816017.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816018/%s/4816018.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816019/%s/4816019.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816020/%s/4816020.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816021/%s/4816021.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816022/%s/4816022.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295266/%s/lg1018.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295267/%s/ph1000.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295268/%s/ph1001.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295269/%s/ph1002.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295270/%s/ph1003.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295271/%s/ph1004.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295272/%s/ph1005.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295273/%s/ph1006.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295274/%s/ph1007.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295275/%s/ph1008.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295276/%s/ph1009.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295277/%s/ph1010.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295278/%s/ph1011.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295279/%s/ph1012.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295280/%s/ph1013.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295281/%s/ph1014.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295282/%s/ph1015.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295283/%s/ph1016.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295284/%s/ph1017.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295285/%s/ph1071.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295286/%s/ph1072.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295287/%s/ph1073.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295288/%s/ph1074.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295289/%s/ph1104.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295290/%s/ph1105.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295291/%s/ph1106.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295292/%s/ph1107.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295293/%s/ph1108.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295294/%s/ph1109.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295295/%s/ph1110.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295296/%s/ph1111.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295297/%s/ph1112.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295298/%s/ph1113.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295299/%s/ph1114.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295300/%s/ph1115.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295301/%s/ph1116.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295302/%s/ph1117.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295303/%s/ph1118.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295304/%s/ph1119.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295305/%s/ph1120.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295306/%s/ph1121.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295307/%s/ph1122.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295308/%s/ph1123.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295309/%s/ph1124.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295310/%s/ph1125.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295311/%s/ph1126.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295312/%s/ph1127.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295313/%s/ph1128.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295314/%s/ph1129.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295315/%s/ph1130.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295316/%s/ph1131.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295317/%s/ph1132.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295318/%s/ph1133.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295319/%s/ph1134.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295320/%s/ph1135.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/30295321/%s/ph1136.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2688936"
+      },
+      {
+         "address":{
+            "address1":"11 Holiday Dr.",
+            "address2":"",
+            "cityname":"Kingston",
+            "statecode":"PA ",
+            "statename":"Pennsylvania",
+            "postalcode":"18704"
+         },
+         "name":"SDK Green Acres Homes",
+         "id":4834,
+         "description":"SDK Green Acres Homes is a garden-style apartment complex with 212 apartments and town homes nestled on the edge of historic Kingston. With its park-like setting along the Susquehanna River, SDK Green Acres Homes is a picturesque and charming place to live. It is a top-notch complex that offers the highest quality of life for its residents, boasting stunning landscaping, a newly renovated gym and swimming pool, and community centre. It is ideally situated in a well-established, quiet residential neighbourhood with close proximity to employment hubs, medical facilities, recreational and shopping amenities, and community parks. On site, we have a team of professionals that strives to meet your every request, ensuring that you live in comfort.<br/>",
+         "latitude":41.268624512432,
+         "longitude":-75.877268168967,
+         "rentRange":"$892 - $1,778",
+         "propertyKey":"50K5H0468334",
+         "modifiedTimestamp":1456920413225,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":892,
+         "maxRent":1778,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/4814773/%s/4814773.jpg",
+         "maxBeds":3,
+         "minBeds":1,
+         "maxBaths":2,
+         "minBaths":1,
+         "partnerPropertyId":"2688932",
+         "_id":4834,
+         "propStandardAmenities":[
+            {
+               "name":"Fully Equipped Fitness Center",
+               "id":"53",
+               "display":true,
+               "amenityPartnerId":"S100000029",
+               "displaySequence":5,
+               "mitsAmenityName":"FitnessCenter"
+            },
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9,
+               "mitsAmenityName":"Laundry"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Bilingual Staff",
+               "id":"305381107",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":0
+            },
+            {
+               "name":"Close Proximity to Downtown Wilkes-Barre",
+               "id":"305381108",
+               "display":true,
+               "amenityPartnerId":"P000000011",
+               "displaySequence":1
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"305381109",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":2
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"305381110",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":3
+            },
+            {
+               "name":"Community Center",
+               "id":"305381111",
+               "display":true,
+               "amenityPartnerId":"P000000018",
+               "displaySequence":4
+            },
+            {
+               "name":"Off-Street Parking",
+               "id":"305381112",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":6
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"305381113",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":7
+            },
+            {
+               "name":"On-Site 24-Hour Maintenance",
+               "id":"305381114",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":8
+            },
+            {
+               "name":"Pet Friendly",
+               "id":"305381115",
+               "display":true,
+               "amenityPartnerId":"P000000037",
+               "displaySequence":10
+            },
+            {
+               "name":"Professional On-Site Management",
+               "id":"305381116",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":11
+            },
+            {
+               "name":"Professionally Landscaped Courtyards",
+               "id":"305381117",
+               "display":true,
+               "amenityPartnerId":"P000000042",
+               "displaySequence":12
+            },
+            {
+               "name":"Weekly Community Events",
+               "id":"305381118",
+               "display":true,
+               "amenityPartnerId":"P000000051",
+               "displaySequence":13
+            },
+            {
+               "name":"Gazebo",
+               "id":"305381119",
+               "display":true,
+               "amenityPartnerId":"P000000024",
+               "displaySequence":14
+            },
+            {
+               "name":"Washer/Dryer in Unit",
+               "id":"305381120",
+               "display":true,
+               "amenityPartnerId":"S100000241",
+               "displaySequence":15
+            },
+            {
+               "name":"Park Like Setting",
+               "id":"305381121",
+               "display":true,
+               "amenityPartnerId":"P000000034",
+               "displaySequence":16
+            },
+            {
+               "name":"Cable",
+               "id":"305381122",
+               "display":true,
+               "amenityPartnerId":"S100000062",
+               "displaySequence":17
+            }
+         ],
+         "minSqfeet":638,
+         "maxSqfeet":1500,
+         "bathsRange":"1 - 2",
+         "bedsRange":"1 - 3",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/4814773/%s/4814773.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814775/%s/4814775.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814780/%s/4814780.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814785/%s/4814785.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814782/%s/4814782.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211745/%s/5211745.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211746/%s/5211746.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211747/%s/5211747.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211748/%s/5211748.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211749/%s/5211749.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211750/%s/5211750.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211751/%s/5211751.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211752/%s/5211752.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211753/%s/5211753.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211754/%s/5211754.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211755/%s/5211755.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211756/%s/5211756.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211757/%s/5211757.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211758/%s/5211758.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211759/%s/5211759.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211760/%s/5211760.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211761/%s/5211761.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211762/%s/5211762.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211763/%s/5211763.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211764/%s/5211764.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211765/%s/5211765.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211766/%s/5211766.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211767/%s/5211767.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211768/%s/5211768.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211769/%s/5211769.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211770/%s/5211770.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2688932"
+      },
+      {
+         "address":{
+            "address1":"174 South Maple Ave",
+            "address2":"",
+            "cityname":"Ridgewood",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07450"
+         },
+         "name":"SDK Ridgewood",
+         "id":997472,
+         "description":"Situated in one of the East Coasts most beautiful areas, SDK Ridgewood is an ideal place to live. This prem Our team of professionals is timely and thorough in meeting your every request, ensuring that you live in comfort.  Ridgewood is one of the most desirable areas to live in New Jersey, as it has one of the states top public school systems, finest restaurants, and is within easy access to transportation, state of the art medical facilities, employment hubs, and shopping.<br/>",
+         "latitude":40.975357055664,
+         "longitude":-74.115516662598,
+         "rentRange":"$1,150 - $2,650",
+         "propertyKey":"6P0099784772",
+         "modifiedTimestamp":1456919104036,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1150,
+         "maxRent":2650,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/4815897/%s/4815897.jpg",
+         "maxBeds":3,
+         "minBeds":0,
+         "maxBaths":2,
+         "minBaths":1,
+         "partnerPropertyId":"2689102",
+         "_id":997472,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9999,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"Storage Space",
+               "id":"52",
+               "display":true,
+               "amenityPartnerId":"P000000044",
+               "displaySequence":9999,
+               "mitsAmenityName":"StorageSpace"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Garages",
+               "id":"305381188",
+               "display":true,
+               "amenityPartnerId":"P000000023",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"305381184",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":9999
+            },
+            {
+               "name":"Off-Street Parking",
+               "id":"305381189",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":9999
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"305381190",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"305381192",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":9999
+            },
+            {
+               "name":"24 Hour Maintenance",
+               "id":"305381195",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Public Transportation",
+               "id":"305381187",
+               "display":true,
+               "amenityPartnerId":"P000000017",
+               "displaySequence":9999
+            },
+            {
+               "name":"Controlled Access",
+               "id":"305381191",
+               "display":true,
+               "amenityPartnerId":"P000000034",
+               "displaySequence":9999
+            },
+            {
+               "name":"Bilingual Staff",
+               "id":"305381181",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close To Major Highways",
+               "id":"305381185",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close Proximity to New York City",
+               "id":"305381183",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":415,
+         "maxSqfeet":1350,
+         "bathsRange":"1 - 2",
+         "bedsRange":"Studio - 3",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/4815897/%s/4815897.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4815903/%s/4815903.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4815899/%s/4815899.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4815900/%s/4815900.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212042/%s/5212042.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212043/%s/5212043.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212044/%s/5212044.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212045/%s/5212045.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212046/%s/5212046.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212047/%s/5212047.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212048/%s/5212048.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212049/%s/5212049.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212050/%s/5212050.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212051/%s/5212051.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212052/%s/5212052.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212053/%s/5212053.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212054/%s/5212054.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212055/%s/5212055.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212056/%s/5212056.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212057/%s/5212057.jpg"
+         ],
+         "petsAllowed":false,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2689102"
+      },
+      {
+         "address":{
+            "address1":"74 Village Green",
+            "address2":"",
+            "cityname":"Budd Lake",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07828"
+         },
+         "name":"SDK Village Green LLC",
+         "id":2592790,
+         "description":"Come experience life inside a one- or two-bedroom apartment at SDK Village Green Apartments today. Outfitted with private patios, spacious cabinets, and matching appliances, these homes have it all. <br/><br/>Conveniently located near Highway 46 and Interstate 80, the area’s most popular shopping destinations are mere moments away. Spend an afternoon strolling and shopping at the pedestrian-friendly enclosed Ledgewood Mall. Home to renowned retailers like Marshall’s, Macy’s, and Ashley Furniture, this place has it all. For all of your food and kitchen-preparation needs, there are many grocers nearby, including ShopRite, Weis Market, and BJ’s Wholesale Club. <br/><br/>When you’d rather enjoy a meal outside your home, there are many great restaurants to choose from. Treat yourself to the taste of authentic Italian fare at Branda’s Italian Grill. Offering classic fare like Chicken Marsala, specialty pizzas, and more, this place is unlike any other. For something a little less formal, check out Budd Lake Diner. This popular American diner specializes in the classics, including burgers and a range of hot and cold sandwiches, and provides top-notch service along with them. Satisfy your cravings for Chinese and Southeast Asian cuisine at King Wok. This family-run establishment uses only the freshest ingredients to create their authentic offerings. Regulars rave about the dumplings, chow mein, and pan-fried noodles.<br/><br/>Please call for an appointment today!",
+         "latitude":40.884744375944,
+         "longitude":-74.728332683444,
+         "rentRange":"$1,224 - $1,769",
+         "propertyKey":"4N2959237910",
+         "modifiedTimestamp":1456920902202,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"19:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"19:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"19:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Sunday",
+               "startTime1":"10:00",
+               "endTime1":"17:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1224,
+         "maxRent":1769,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/26192093/%s/26192093.jpg",
+         "maxBeds":2,
+         "minBeds":1,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"3757963",
+         "_id":2592790,
+         "propStandardAmenities":[
+            {
+               "name":"Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9999,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"Storage Space",
+               "id":"52",
+               "display":true,
+               "amenityPartnerId":"P000000044",
+               "displaySequence":9999,
+               "mitsAmenityName":"StorageSpace"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Swimming Pools",
+               "id":"339338558",
+               "display":true,
+               "amenityPartnerId":"S100000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"Air conditioning - central air",
+               "id":"339338559",
+               "display":true,
+               "amenityPartnerId":"S100000053",
+               "displaySequence":9999
+            },
+            {
+               "name":"Golf course, horseshoe courts, skating rink and sports courts",
+               "id":"337205326",
+               "display":true,
+               "amenityPartnerId":"P000000046",
+               "displaySequence":9999
+            },
+            {
+               "name":"Garage",
+               "id":"339338555",
+               "display":true,
+               "amenityPartnerId":"P000000023",
+               "displaySequence":9999
+            },
+            {
+               "name":"On-Site Maintenance and Management",
+               "id":"339338556",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"Cable",
+               "id":"339338560",
+               "display":true,
+               "amenityPartnerId":"S100000062",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professionally Landscaped Cour",
+               "id":"339338557",
+               "display":true,
+               "amenityPartnerId":"P000000042",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":775,
+         "maxSqfeet":948,
+         "bathsRange":"1",
+         "bedsRange":"1 - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/26192093/%s/26192093.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192091/%s/26192091.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192092/%s/26192092.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192094/%s/26192094.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192095/%s/26192095.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192104/%s/26192104.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192099/%s/26192099.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192103/%s/26192103.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192101/%s/26192101.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192097/%s/26192097.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192102/%s/26192102.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192100/%s/26192100.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192098/%s/26192098.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/26192096/%s/26192096.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"http://www.villagegreen.activebuilding.com"
+      },
+      {
+         "address":{
+            "address1":"30-A Arcadia Road",
+            "address2":"",
+            "cityname":"Hackensack",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07601"
+         },
+         "name":"SDK Summit Gardens",
+         "id":981051,
+         "description":"SDK Summit Gardens is a stunning garden-style community located in one of the most desirable areas in New Jersey. The community boasts lush landscaping and elegant apartments. Our team of professionals is timely and thorough in meeting your every request, ensuring that you live in comfort. Located just outside New York City, Summit Gardens has easy access to transportation, state of the art medical facilities, employment hubs, shopping, and entertainment.<br/><br/> ",
+         "latitude":40.886629,
+         "longitude":-74.061394,
+         "rentRange":"$1,418 - $1,812",
+         "propertyKey":"0KU198140511",
+         "modifiedTimestamp":1456919103105,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1418,
+         "maxRent":1812,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/4816301/%s/4816301.jpg",
+         "maxBeds":2,
+         "minBeds":1,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"2689009",
+         "_id":981051,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9999,
+               "mitsAmenityName":"Laundry"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Close to Major Highways",
+               "id":"305381227",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"305381226",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":9999
+            },
+            {
+               "name":"On-Site 24 Hour Maintenance",
+               "id":"305381239",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9999
+            },
+            {
+               "name":"Park Like Setting",
+               "id":"305381234",
+               "display":true,
+               "amenityPartnerId":"P000000034",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"305381236",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":9999
+            },
+            {
+               "name":"Garages Available",
+               "id":"305381231",
+               "display":true,
+               "amenityPartnerId":"P000000023",
+               "displaySequence":9999
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"305381233",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professional On-Site Management",
+               "id":"305381235",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"Off-Street Parking",
+               "id":"305381232",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":9999
+            },
+            {
+               "name":"Flexible Lease Guarantee",
+               "id":"305381230",
+               "display":true,
+               "amenityPartnerId":"P000000020",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Public Transport",
+               "id":"305381228",
+               "display":true,
+               "amenityPartnerId":"P000000016",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close Proximity to New York City",
+               "id":"305381225",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":9999
+            },
+            {
+               "name":"Bilingual Staff",
+               "id":"305381223",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":514,
+         "maxSqfeet":664,
+         "bathsRange":"1",
+         "bedsRange":"1 - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/4816301/%s/4816301.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816309/%s/4816309.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816308/%s/4816308.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4816303/%s/4816303.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211989/%s/5211989.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211990/%s/5211990.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211991/%s/5211991.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211992/%s/5211992.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211993/%s/5211993.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211994/%s/5211994.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211995/%s/5211995.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211996/%s/5211996.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211997/%s/5211997.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211998/%s/5211998.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211999/%s/5211999.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212000/%s/5212000.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212001/%s/5212001.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212002/%s/5212002.jpg"
+         ],
+         "petsAllowed":false,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2689009"
+      },
+      {
+         "address":{
+            "address1":"380-388 Parsippany Rd",
+            "address2":"",
+            "cityname":"Parsippany",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07054"
+         },
+         "name":"Parsippany Gardens",
+         "id":981053,
+         "description":"In 2006, Money Magazine voted Parsippany as One of the best places to live in America. Parsippany Gardens is a premiere apartment community that boasts stunningly landscaped lawns and gardens and brand new renovations to our homes. Our team of professionals is timely and thorough in meeting your every request, ensuring that you live in comfort. The complex is in a superb location, with easy access to transportation, state of the art medical facilities, employment hubs, shopping, restaurants, and entertainment.",
+         "latitude":40.853569,
+         "longitude":-74.424988,
+         "rentRange":"$1,123 - $1,665",
+         "propertyKey":"6Z0498110553",
+         "modifiedTimestamp":1456920903382,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1123,
+         "maxRent":1665,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/4814656/%s/4814656.jpg",
+         "maxBeds":2,
+         "minBeds":0,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"2688928",
+         "_id":981053,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":10,
+               "mitsAmenityName":"Laundry"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Bilingual Staff",
+               "id":"359154604",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":0
+            },
+            {
+               "name":"Close Proximity to New York City",
+               "id":"359154605",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":1
+            },
+            {
+               "name":"Close to Dining, Shopping and Entertainment",
+               "id":"359154606",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":2
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"359154607",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":3
+            },
+            {
+               "name":"Corporate Suites and Furnished Apartments Available",
+               "id":"359154608",
+               "display":true,
+               "amenityPartnerId":"S100000303",
+               "displaySequence":4
+            },
+            {
+               "name":"Flexible Lease Guarantee",
+               "id":"359154609",
+               "display":true,
+               "amenityPartnerId":"P000000020",
+               "displaySequence":5
+            },
+            {
+               "name":"Garages Available",
+               "id":"359154610",
+               "display":true,
+               "amenityPartnerId":"P000000023",
+               "displaySequence":6
+            },
+            {
+               "name":"Off-Street Parking",
+               "id":"359154611",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":7
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"359154612",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":8
+            },
+            {
+               "name":"On-Site 24-Hour Maintenance",
+               "id":"359154613",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9
+            },
+            {
+               "name":"Park Like Setting",
+               "id":"359154614",
+               "display":true,
+               "amenityPartnerId":"P000000034",
+               "displaySequence":11
+            },
+            {
+               "name":"Professional On-Site Management",
+               "id":"359154615",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":12
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"359154616",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":13
+            },
+            {
+               "name":"Close to Public Transportation",
+               "id":"359154621",
+               "display":true,
+               "amenityPartnerId":"P000000017",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":513,
+         "maxSqfeet":954,
+         "bathsRange":"1",
+         "bedsRange":"Studio - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/4814656/%s/4814656.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814657/%s/4814657.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814662/%s/4814662.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814663/%s/4814663.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814668/%s/4814668.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212012/%s/5212012.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212013/%s/5212013.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212014/%s/5212014.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212015/%s/5212015.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212016/%s/5212016.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212017/%s/5212017.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212018/%s/5212018.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212019/%s/5212019.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212020/%s/5212020.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212021/%s/5212021.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212022/%s/5212022.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212023/%s/5212023.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212024/%s/5212024.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212025/%s/5212025.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212026/%s/5212026.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212027/%s/5212027.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212028/%s/5212028.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5212029/%s/5212029.jpg"
+         ],
+         "petsAllowed":false,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2688928"
+      },
+      {
+         "address":{
+            "address1":"193 Tenby Chase Dr",
+            "address2":"",
+            "cityname":"Delran",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"08075"
+         },
+         "name":"SDK Tenby Chase Apartments",
+         "id":1097909,
+         "description":"SDK Tenby Chase Apartments and Townhomes provide unique floor plans that boast extremely large rooms, modern kitchens & baths, upgrades, and comforts that are sure to make your living experience exactly what you need.<br/><br/>SDK Tenby Chase is a top-notch complex that offers the highest quality of life for its residents, boasting stunning landscaping and swimming pool. It is ideally situated in a well-established, quiet residential neighborhood with close proximity to employment hubs, medical facilities, recreational and shopping amenities, and community parks. On site, we have a team of professionals that strives to meet your every request, ensuring that you live in comfort.<br/>",
+         "latitude":40.008823,
+         "longitude":-74.962865,
+         "rentRange":"$1,075 - $2,061",
+         "propertyKey":"9P1709719049",
+         "modifiedTimestamp":1456919104595,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"17:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"11:00",
+               "endTime1":"15:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1075,
+         "maxRent":2061,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/5172765/%s/5172765.jpg",
+         "maxBeds":2,
+         "minBeds":1,
+         "maxBaths":2,
+         "minBaths":1,
+         "partnerPropertyId":"2846350",
+         "_id":1097909,
+         "propStandardAmenities":[
+            {
+               "name":"On-site laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":5,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"On-site 24-hour maintenance",
+               "id":"54",
+               "display":true,
+               "amenityPartnerId":"S100000309",
+               "displaySequence":10,
+               "mitsAmenityName":"OnSiteMaintenance"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Swimming pool with free Wi-Fi",
+               "id":"305381240",
+               "display":true,
+               "amenityPartnerId":"S100000040",
+               "displaySequence":0
+            },
+            {
+               "name":"Playground",
+               "id":"305381241",
+               "display":true,
+               "amenityPartnerId":"P000000005",
+               "displaySequence":1
+            },
+            {
+               "name":"Pet friendly",
+               "id":"305381242",
+               "display":true,
+               "amenityPartnerId":"P000000037",
+               "displaySequence":2
+            },
+            {
+               "name":"Tennis court",
+               "id":"305381243",
+               "display":true,
+               "amenityPartnerId":"P000000046",
+               "displaySequence":3
+            },
+            {
+               "name":"Bi-lingual staff",
+               "id":"305381244",
+               "display":true,
+               "amenityPartnerId":"S100000311",
+               "displaySequence":4
+            },
+            {
+               "name":"Park like setting",
+               "id":"305381245",
+               "display":true,
+               "amenityPartnerId":"S100000254",
+               "displaySequence":6
+            },
+            {
+               "name":"Off-street parking",
+               "id":"305381246",
+               "display":true,
+               "amenityPartnerId":"S100000013",
+               "displaySequence":7
+            },
+            {
+               "name":"Online resident services",
+               "id":"305381247",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":8
+            },
+            {
+               "name":"Close to major highways",
+               "id":"305381248",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":9
+            },
+            {
+               "name":"Professional on-site management",
+               "id":"305381249",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":11
+            },
+            {
+               "name":"Professionally landscaped courtyards",
+               "id":"305381250",
+               "display":true,
+               "amenityPartnerId":"P000000042",
+               "displaySequence":12
+            },
+            {
+               "name":"Off-street parking",
+               "id":"305381251",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":13
+            },
+            {
+               "name":"Close to dining, shopping and entertainment",
+               "id":"305381252",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":14
+            },
+            {
+               "name":"Park like setting",
+               "id":"305381253",
+               "display":true,
+               "amenityPartnerId":"P000000034",
+               "displaySequence":15
+            }
+         ],
+         "minSqfeet":700,
+         "maxSqfeet":2662,
+         "bathsRange":"1 - 2",
+         "bedsRange":"1 - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/5172765/%s/5172765.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5172769/%s/5172769.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5172770/%s/5172770.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227398/%s/5227398.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227399/%s/5227399.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227400/%s/5227400.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227401/%s/5227401.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227402/%s/5227402.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227403/%s/5227403.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227404/%s/5227404.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227405/%s/5227405.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227406/%s/5227406.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227407/%s/5227407.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227408/%s/5227408.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227409/%s/5227409.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227410/%s/5227410.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227411/%s/5227411.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227412/%s/5227412.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227413/%s/5227413.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227414/%s/5227414.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5227415/%s/5227415.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2846350"
+      },
+      {
+         "address":{
+            "address1":"320 S. Harrison St",
+            "address2":"Suite 5-H",
+            "cityname":"East Orange",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07018"
+         },
+         "name":"The Park View At 320",
+         "id":981054,
+         "description":"The Park View at 320 is a luxury rental community with 273 spacious apartment units. The building is comprised of studios, one, two and three bedroom apartments. Conveniently located next to the historic Brick Church Station(NJ transit) and within a 25 minute train ride to Manhattan, this 20 story building offers breathtaking views of the picturesque Orange mountains and Manhattan skyline.<br/><br/>The Park View at 320 is commonly referred to as \"The Jewel of Essex County\" and is the most exclusive and desirable address within the city of East Orange. Residents will enjoy many amenities within the building, that are similarly offered in Manhattan's finest luxury apartments, including cutting edge security, concierge call back, a 24-hour security guard, fitness center, swimming pool, grand lobby, designed landscaping and on-site laundry facilities! In addition, the on-site superintendent is present to ensure that all maintenance issues are handled immediately. Off-street parking is just one more reason that residents can feel at ease when living at The Park View at 320. The units feature hardwood flooring throughout, central air/heating systems, upgraded kitchen cabinets, Stainless steel appliance package(Select Units Only!!!), and many additional upgrades. Exclusive units include a private balcony that capture the tranquility of the Manhattan skyline and enhance the magnificent views.",
+         "latitude":40.759012,
+         "longitude":-74.228935,
+         "rentRange":"$1,290 - $3,041",
+         "propertyKey":"5PJ498110524",
+         "modifiedTimestamp":1456918203645,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1290,
+         "maxRent":3041,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/5172818/%s/5172818.jpg",
+         "maxBeds":3,
+         "minBeds":0,
+         "maxBaths":2,
+         "minBaths":1,
+         "partnerPropertyId":"2688934",
+         "_id":981054,
+         "propStandardAmenities":[
+            {
+               "name":"Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9999,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"Well Equipped Fitness Center",
+               "id":"53",
+               "display":true,
+               "amenityPartnerId":"S100000029",
+               "displaySequence":9999,
+               "mitsAmenityName":"FitnessCenter"
+            },
+            {
+               "name":"Elevator",
+               "id":"57",
+               "display":true,
+               "amenityPartnerId":"S100000304",
+               "displaySequence":9999,
+               "mitsAmenityName":"Elevator"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"25 Minute Train Ride to Manhattan",
+               "id":"359154527",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Dining, Shopping & Entertainment",
+               "id":"359154530",
+               "display":true,
+               "amenityPartnerId":"P000000016",
+               "displaySequence":9999
+            },
+            {
+               "name":"Flexible Lease Guarantee",
+               "id":"359154532",
+               "display":true,
+               "amenityPartnerId":"P000000020",
+               "displaySequence":9999
+            },
+            {
+               "name":"Garage Parking Available",
+               "id":"359154533",
+               "display":true,
+               "amenityPartnerId":"P000000023",
+               "displaySequence":9999
+            },
+            {
+               "name":"Regular-sized pool",
+               "id":"359154547",
+               "display":true,
+               "amenityPartnerId":"S100000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"Cable",
+               "id":"359154549",
+               "display":true,
+               "amenityPartnerId":"S100000062",
+               "displaySequence":9999
+            },
+            {
+               "name":"Assigned Off-street Parking",
+               "id":"359154522",
+               "display":true,
+               "amenityPartnerId":"P000000003",
+               "displaySequence":9999
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"359154537",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professional On-Site Management",
+               "id":"359154545",
+               "display":true,
+               "amenityPartnerId":"P000000051",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"359154542",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":9999
+            },
+            {
+               "name":"Concierge",
+               "id":"359154525",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":9999
+            },
+            {
+               "name":"Corporate Housing",
+               "id":"359154550",
+               "display":true,
+               "amenityPartnerId":"S100000303",
+               "displaySequence":9999
+            },
+            {
+               "name":"On-site 24 Hour Maintenance",
+               "id":"359154551",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9999
+            },
+            {
+               "name":"Luxurious Skyline Views",
+               "id":"359154523",
+               "display":true,
+               "amenityPartnerId":"P000000005",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"359154529",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Public Transport",
+               "id":"359154531",
+               "display":true,
+               "amenityPartnerId":"P000000017",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":480,
+         "maxSqfeet":1985,
+         "bathsRange":"1 - 2",
+         "bedsRange":"Studio - 3",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/5172818/%s/5172818.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5172819/%s/5172819.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5172820/%s/5172820.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211885/%s/5211885.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211886/%s/5211886.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211887/%s/5211887.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211888/%s/5211888.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211889/%s/5211889.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211890/%s/5211890.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211891/%s/5211891.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211892/%s/5211892.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211893/%s/5211893.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211894/%s/5211894.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211895/%s/5211895.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211896/%s/5211896.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211897/%s/5211897.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211898/%s/5211898.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211899/%s/5211899.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211900/%s/5211900.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2688934"
+      },
+      {
+         "address":{
+            "address1":"11 Massey St",
+            "address2":"",
+            "cityname":"Lodi",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07644"
+         },
+         "name":"SDK Lodi Apartments",
+         "id":72985,
+         "description":"Quality living at an affordable price is what you'll find at our clean, well-maintained, and spacious building. At SDK Lodi Apartments we make sure that your home is comfortable, and our professional staff is here to meet every one of your requests. Nestled in a quiet neighborhood in a desirable area just outside New York City, our residents have easy access to transportation, state of the art medical facilities, employment hubs, shopping, and entertainment.<br/>",
+         "latitude":40.876626295586,
+         "longitude":-74.081952945629,
+         "rentRange":"$1,325 - $1,475",
+         "propertyKey":"50A0M7269875",
+         "modifiedTimestamp":1456921502261,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1325,
+         "maxRent":1475,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/3785239/%s/3785239.jpg",
+         "maxBeds":1,
+         "minBeds":1,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"2689065",
+         "_id":72985,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":6,
+               "mitsAmenityName":"Laundry"
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Bilingual Staff",
+               "id":"305381130",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":0
+            },
+            {
+               "name":"Close to Major Highways",
+               "id":"305381131",
+               "display":true,
+               "amenityPartnerId":"P000000015",
+               "displaySequence":1
+            },
+            {
+               "name":"Close to Public Transport",
+               "id":"305381132",
+               "display":true,
+               "amenityPartnerId":"P000000016",
+               "displaySequence":2
+            },
+            {
+               "name":"Close Proximity to New York City",
+               "id":"305381133",
+               "display":true,
+               "amenityPartnerId":"P000000012",
+               "displaySequence":3
+            },
+            {
+               "name":"Off-Street Parking",
+               "id":"305381134",
+               "display":true,
+               "amenityPartnerId":"P000000032",
+               "displaySequence":5
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"305381135",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":7
+            },
+            {
+               "name":"On-Site 24-Hour Maintenance",
+               "id":"305381136",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":8
+            },
+            {
+               "name":"Professionally Landscaped",
+               "id":"305381137",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":9
+            },
+            {
+               "name":"Close to Dinning, Shopping and Entertainment",
+               "id":"305381138",
+               "display":true,
+               "amenityPartnerId":"P000000014",
+               "displaySequence":10
+            }
+         ],
+         "minSqfeet":710,
+         "maxSqfeet":710,
+         "bathsRange":"1",
+         "bedsRange":"1",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/3785239/%s/3785239.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/3510152/%s/3510152.png",
+            "http://api.pv8.myleasestar.com/v2/dimg/3510153/%s/3510153.png",
+            "http://api.pv8.myleasestar.com/v2/dimg/4814863/%s/4814863.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211777/%s/5211777.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211778/%s/5211778.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211779/%s/5211779.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211780/%s/5211780.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211781/%s/5211781.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211782/%s/5211782.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211783/%s/5211783.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211784/%s/5211784.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211785/%s/5211785.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211786/%s/5211786.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211787/%s/5211787.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211788/%s/5211788.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/5211789/%s/5211789.jpg"
+         ],
+         "petsAllowed":false,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome?siteId=2689065"
+      },
+      {
+         "address":{
+            "address1":"1275 Rock Ave",
+            "address2":"",
+            "cityname":"North Plainfield",
+            "statecode":"NJ ",
+            "statename":"New Jersey",
+            "postalcode":"07060"
+         },
+         "name":"SDK Greenbrook Gardens",
+         "id":1949246,
+         "description":"Greenbrook Gardens is a beautiful apartment community in Plainfield, NJ, offering one- and two-bedroom apartments located a short distance from Washington Rock Park. With easy access to Highways 22 and 28, residents are always minutes away from shops, restaurants, and entertainment.<br/><br/>If you’re looking for authentic Peruvian cuisine, you’ll enjoy eating at Tradiciones de mi Pueblo. They offer a menu with traditional Peruvian favorites, such as ceviche, bandeja paisa, chicharrones, and Peruvian roasted chicken. Greenbrook Gardens is also a short distance away from Amazing Taste. Local residents recommend their favorite dishes to first-time visitors. You can enjoy jerk chicken, yellow rice, fried tilapia, banana pudding, and more.<br/><br/>After you enjoy a nice lunch, you can visit shopping centers in the Plainfield area. Find the latest styles and trends at Watchung Square Mall. This shopping center features great retail stores, such as ULTA Beauty, Bed Bath and Beyond, Target, Staples, Walmart and The Home Depot. Blue Star Shopping Center, also located near Greenbrook Gardens, is a great shopping destination with stores such as Kohl’s, Michaels, Petco, Dollar Tree, Toys R Us, Marshalls, GameStop, and GNC. You can visit Eight on the Break, St. Joseph Bingo Hall, and North Plainfield Exempt Firemen’s Association Museum, which are all a short distance from Greenbrook Gardens.<br/><br/>Speak to a staff member from the Greenbrook Gardens leasing office to learn more information about your new neighborhood.<br/>",
+         "latitude":40.612055584788,
+         "longitude":-74.463266730309,
+         "rentRange":"$1,211 - $1,729",
+         "propertyKey":"401594962436",
+         "modifiedTimestamp":1456913705620,
+         "propertyOfficeHours":[
+            {
+               "dayOfWeek":"Monday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Tuesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Wednesday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Thursday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Friday",
+               "startTime1":"09:00",
+               "endTime1":"18:00"
+            },
+            {
+               "dayOfWeek":"Saturday",
+               "startTime1":"10:00",
+               "endTime1":"14:00"
+            }
+         ],
+         "isFeatured":false,
+         "minRent":1211,
+         "maxRent":1729,
+         "thumbnail":"http://api.pv8.myleasestar.com/v2/dimg/16343524/%s/16343524.jpg",
+         "maxBeds":2,
+         "minBeds":1,
+         "maxBaths":1,
+         "minBaths":1,
+         "partnerPropertyId":"3649815",
+         "_id":1949246,
+         "propStandardAmenities":[
+            {
+               "name":"On-Site Laundry",
+               "id":"45",
+               "display":true,
+               "amenityPartnerId":"S100000085",
+               "displaySequence":9999,
+               "mitsAmenityName":"Laundry"
+            },
+            {
+               "name":"On-Site Storage Available",
+               "id":"52",
+               "display":true,
+               "amenityPartnerId":"P000000044",
+               "displaySequence":9999,
+               "mitsAmenityName":"StorageSpace"
+            },
+            {
+               "name":"Private Apartment Entrances",
+               "id":"66",
+               "display":true,
+               "amenityPartnerId":"P000000053",
+               "displaySequence":9999
+            }
+         ],
+         "propCustomAmenities":[
+            {
+               "name":"Professionally Landscaped Courtyards",
+               "id":"218122189",
+               "display":true,
+               "amenityPartnerId":"P000000041",
+               "displaySequence":9999
+            },
+            {
+               "name":"Bi- Lingual Staff",
+               "id":"218122169",
+               "display":true,
+               "amenityPartnerId":"P000000007",
+               "displaySequence":9999
+            },
+            {
+               "name":"Close to Dinning, Shopping and Entertainment",
+               "id":"218122170",
+               "display":true,
+               "amenityPartnerId":"P000000010",
+               "displaySequence":9999
+            },
+            {
+               "name":"Swimming Pool",
+               "id":"218122195",
+               "display":true,
+               "amenityPartnerId":"S100000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"On-Site 24 Hour Maintenance",
+               "id":"218122200",
+               "display":true,
+               "amenityPartnerId":"S100000306",
+               "displaySequence":9999
+            },
+            {
+               "name":"Professional On-Site Managemen",
+               "id":"218122188",
+               "display":true,
+               "amenityPartnerId":"P000000040",
+               "displaySequence":9999
+            },
+            {
+               "name":"Online Resident Services",
+               "id":"218122184",
+               "display":true,
+               "amenityPartnerId":"P000000033",
+               "displaySequence":9999
+            }
+         ],
+         "minSqfeet":600,
+         "maxSqfeet":890,
+         "bathsRange":"1",
+         "bedsRange":"1 - 2",
+         "images":[
+            "http://api.pv8.myleasestar.com/v2/dimg/16343524/%s/16343524.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570916/%s/16570916.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570912/%s/16570912.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570914/%s/16570914.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570911/%s/16570911.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570913/%s/16570913.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16343533/%s/16343533.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570918/%s/16570918.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570917/%s/16570917.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16343531/%s/16343531.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570905/%s/16570905.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570910/%s/16570910.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570906/%s/16570906.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16343530/%s/16343530.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570909/%s/16570909.jpg",
+            "http://api.pv8.myleasestar.com/v2/dimg/16570908/%s/16570908.jpg"
+         ],
+         "petsAllowed":true,
+         "hasVideo":false,
+         "residentPortalUrl":"https://property.onesite.realpage.com/welcomehome/?siteID=3649815"
+      }
+   ]
+}
